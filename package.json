@@ -1,5 +1,5 @@
 {
-  "name": "cidr-range",
+  "name": "@whynotdothat/cidr-range",
   "version": "1.0.0",
   "description": "A simple tool for checking IPs against CIDR ranges",
   "main": "index.js",
